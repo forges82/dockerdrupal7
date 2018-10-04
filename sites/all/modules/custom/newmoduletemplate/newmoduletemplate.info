@@ -1,0 +1,4 @@
+name = New Module Template
+description = Template to create new modules
+core = 7.x
+package = New
